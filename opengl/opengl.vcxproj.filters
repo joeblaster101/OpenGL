@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>{d70a8b70-9c80-4a18-99e7-d54e496b69c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\shader">
+      <UniqueIdentifier>{7107828f-3d7e-4b5f-adc6-18fcb4e9af47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{c7a58df9-7944-4afb-b81b-80060e863059}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="VertexBuffer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexBuffer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\config.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBuffer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexBuffer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\basic.shader">
+      <Filter>res\shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
