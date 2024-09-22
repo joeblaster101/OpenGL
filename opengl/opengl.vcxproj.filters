@@ -27,11 +27,11 @@
     <ClCompile Include="Shader.cpp">
       <Filter>Src</Filter>
     </ClCompile>
+    <ClCompile Include="VertexArray.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\config.h">
-      <Filter>Src</Filter>
-    </ClInclude>
     <ClInclude Include="Renderer.h">
       <Filter>Src</Filter>
     </ClInclude>
@@ -42,6 +42,12 @@
       <Filter>Src</Filter>
     </ClInclude>
     <ClInclude Include="Shader.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexArray.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexBufferLayout.h">
       <Filter>Src</Filter>
     </ClInclude>
   </ItemGroup>
