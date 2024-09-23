@@ -59,14 +59,16 @@ int main(void)
 
         VertexArray va;
 
-
         Shader Shader("res/shaders/basic.shader");
-        Shader.Bind();
 
-        Shader.SetUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
-        Shader.Unbind();
+
 
         Renderer renderer;
+
+        vb.UnBind();
+        ib.UnBind();
+        Shader.Unbind();
+
 
         float r = 0.1f;
         float increment = 0.05f;
@@ -94,7 +96,6 @@ int main(void)
 
             // Define the range
             std::uniform_int_distribution<> dis(1, 3);
-            ib.Bind();
 
             renderer.Draw(va, ib, Shader);
 

@@ -19,8 +19,6 @@ Shader::~Shader()
     GLCall(glDeleteProgram(m_RendererID));
 }
 
-
-
 ShaderProgramSource Shader::ParseShader(const std::string& filepath)
 {
     std::ifstream stream(filepath);
@@ -38,14 +36,23 @@ ShaderProgramSource Shader::ParseShader(const std::string& filepath)
         if (line.find("#shader") != std::string::npos)
         {
             if (line.find("vertex") != std::string::npos)
+            {
                 type = ShaderType::VERTEX;
+                std::cout << line << std::endl;
+            }
+
             else if (line.find("fragment") != std::string::npos)
+            {
                 type = ShaderType::FRAGMENT;
+                //std::cout << line << std::endl;
+            }
+
         }
 
         else
         {
             ss[(int)type] << line << '\n';
+            std::cout << line << std::endl;
         }
     }
 
