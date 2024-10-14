@@ -1,6 +1,9 @@
 ﻿  Application.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
   VertexArray.cpp
-C:\github\OpenGL\opengl\VertexArray.cpp(26,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\VertexArray.cpp(26,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
+  VertexBuffer.cpp
   Generating Code...
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: "link.exe" exited with code 1104.
 LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
