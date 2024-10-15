@@ -6,4 +6,4 @@
 C:\Users\joe\Documents\GitHub\OpenGL\opengl\VertexArray.cpp(26,3): warning C4312: 'type cast': conversion from 'unsigned int' to 'const void *' of greater size
   VertexBuffer.cpp
   Generating Code...
-LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
+LINK : fatal error LNK1104: cannot open file 'glew32s.lib'
