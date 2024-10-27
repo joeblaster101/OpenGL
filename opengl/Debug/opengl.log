@@ -1,2 +1,23 @@
-﻿  application.cpp
-C:\Users\joe\Documents\GitHub\opengl\opengl\src\config.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+﻿  Application.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Application.cpp(2,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  IndexBuffer.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Renderer.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  (compiling source file 'IndexBuffer.cpp')
+  
+  Renderer.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Renderer.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  (compiling source file 'Renderer.cpp')
+  
+  Shader.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Renderer.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  (compiling source file 'Shader.cpp')
+  
+  VertexArray.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Renderer.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  (compiling source file 'VertexArray.cpp')
+  
+  VertexBuffer.cpp
+C:\Users\joe\Documents\GitHub\OpenGL\opengl\Renderer.h(3,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  (compiling source file 'VertexBuffer.cpp')
+  
+  Generating Code...
