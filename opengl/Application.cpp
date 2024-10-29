@@ -70,11 +70,11 @@ int main(void)
         Shader.Unbind();
 
 
-        float r = 0.1f;
+        float r = 1.0f;
         float increment = 0.05f;
-        float g = 0.1f;
+        float g = 1.0f;
         float increment2 = 0.03f;
-        float b = 0.1f;
+        float b = 1.0f;
         float increment3 = 0.02f;
         float a = 1.0f;
         /* Loop until the user closes the window */
@@ -99,7 +99,7 @@ int main(void)
 
             renderer.Draw(va, ib, Shader);
 
-            bool test = true;
+            bool test = false;
             float max = 0.5f;
             if (test)
             {
