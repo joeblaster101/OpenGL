@@ -50,21 +50,26 @@ int main(void)
             2, 3 , 0
         };
 
+
+        VertexArray va;
         VertexBuffer vb(positions, 4 * 2 * sizeof(float));
 
-        GLCall(glEnableVertexAttribArray(0));
-        GLCall(glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, sizeof(float) * 2, 0));
+       
+
+        VertexBufferLayout layout;
+        layout.Push<float>(2);
+        va.AddBuffer(vb, layout);
 
         IndexBuffer ib(indices, 6);
 
-        VertexArray va;
-
         Shader Shader("res/shaders/basic.shader");
-
-
+        Shader.Bind();
+        Shader.SetUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
 
         Renderer renderer;
 
+
+        va.Unbond();
         vb.UnBind();
         ib.UnBind();
         Shader.Unbind();
@@ -85,17 +90,6 @@ int main(void)
 
             Shader.Bind();
             Shader.SetUniform4f("u_Color", r, g, b, a);
-
-            const int SIZE = 6;
-
-            // Seed with a real random value, if available
-            std::random_device rd;
-
-            // Initialize a random number generator
-            std::mt19937 gen(rd());
-
-            // Define the range
-            std::uniform_int_distribution<> dis(1, 3);
 
             renderer.Draw(va, ib, Shader);
 

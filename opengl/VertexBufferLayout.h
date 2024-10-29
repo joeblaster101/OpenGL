@@ -33,7 +33,7 @@ public:
 	VertexBufferLayout()
 		: m_Stride(0) {}
 
-/*	template<typename T>
+	template<typename T>
 	void Push(unsigned int count)
 	{
 		static_assert(false);
@@ -59,7 +59,7 @@ public:
 		m_Elements.push_back({ GL_UNSIGNED_BYTE, count, GL_TRUE });
 		m_Stride += VertexBufferElement::GetSizOfType(GL_UNSIGNED_BYTE);
 	}
-	*/
+	
 	inline const std::vector<VertexBufferElement> GetElements() const& { return m_Elements; }
 	inline unsigned int GetStride() const { return m_Stride; }
 };

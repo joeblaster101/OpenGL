@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBufferLayout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\VertexBufferLayout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\VertexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\IndexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42D36D8-49C1-4AE6-9291-B910F706C6F7}|opengl\\opengl.vcxproj|solutionrelative:opengl\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,47 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Shader.cpp",
-              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.cpp",
-              "RelativeDocumentMoniker": "opengl\\Shader.cpp",
-              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.cpp",
-              "RelativeToolTip": "opengl\\Shader.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-28T14:41:05.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.h",
-              "RelativeDocumentMoniker": "opengl\\Shader.h",
-              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Shader.h",
-              "RelativeToolTip": "opengl\\Shader.h",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-28T14:40:04.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "VertexArray.cpp",
               "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexArray.cpp",
               "RelativeDocumentMoniker": "opengl\\VertexArray.cpp",
               "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexArray.cpp",
               "RelativeToolTip": "opengl\\VertexArray.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB9AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBkAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:52:47.166Z"
+              "WhenOpened": "2024-10-29T11:15:31.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VertexBufferLayout.h",
+              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBufferLayout.h",
+              "RelativeDocumentMoniker": "opengl\\VertexBufferLayout.h",
+              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBufferLayout.h",
+              "RelativeToolTip": "opengl\\VertexBufferLayout.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T11:14:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IndexBuffer.h",
               "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\IndexBuffer.h",
               "RelativeDocumentMoniker": "opengl\\IndexBuffer.h",
@@ -95,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IndexBuffer.cpp",
               "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\IndexBuffer.cpp",
               "RelativeDocumentMoniker": "opengl\\IndexBuffer.cpp",
@@ -103,19 +93,47 @@
               "RelativeToolTip": "opengl\\IndexBuffer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-03T17:28:12.47Z"
+              "WhenOpened": "2024-09-03T17:28:12.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "VertexBuffer.h",
+              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBuffer.h",
+              "RelativeDocumentMoniker": "opengl\\VertexBuffer.h",
+              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\VertexBuffer.h",
+              "RelativeToolTip": "opengl\\VertexBuffer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T11:09:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Renderer.h",
               "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.h",
               "RelativeDocumentMoniker": "opengl\\Renderer.h",
               "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.h",
               "RelativeToolTip": "opengl\\Renderer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-22T10:43:54.079Z"
+              "WhenOpened": "2024-09-22T10:43:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.cpp",
+              "RelativeDocumentMoniker": "opengl\\Renderer.cpp",
+              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.cpp",
+              "RelativeToolTip": "opengl\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T10:43:53.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -125,22 +143,10 @@
               "RelativeDocumentMoniker": "opengl\\Application.cpp",
               "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Application.cpp",
               "RelativeToolTip": "opengl\\Application.cpp",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-17T12:35:54.589Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Renderer.cpp",
-              "DocumentMoniker": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.cpp",
-              "RelativeDocumentMoniker": "opengl\\Renderer.cpp",
-              "ToolTip": "C:\\Users\\joe\\Documents\\GitHub\\OpenGL\\opengl\\Renderer.cpp",
-              "RelativeToolTip": "opengl\\Renderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-22T10:43:53.499Z"
             }
           ]
         }
